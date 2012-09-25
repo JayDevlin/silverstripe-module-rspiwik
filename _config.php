@@ -1,3 +1,3 @@
 <?php
-Object::add_extension('SiteConfig', 'RSPiwikSiteConfigExtension');
-Object::add_extension('SiteTree', 'RSPiwikSiteTreeExtension');
+DataObject::add_extension('SiteConfig', 'RSPiwikSiteConfigExtension');
+DataObject::add_extension('SiteTree', 'RSPiwikSiteTreeExtension');

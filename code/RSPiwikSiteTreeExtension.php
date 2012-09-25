@@ -2,7 +2,7 @@
 /**
  * Extend SiteTree to provide Piwik tracking
  */
-class RSPiwikSiteTreeExtension extends SiteTreeExtension {
+class RSPiwikSiteTreeExtension extends SiteTreeDecorator {
 	
 	/**
 	 * @param controller $controller
