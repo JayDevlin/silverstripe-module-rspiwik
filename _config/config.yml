@@ -1,0 +1,9 @@
+---
+Name: rspiwik
+---
+SiteConfig:
+  extensions:
+    - RSPiwikSiteConfigExtension
+SiteTree:
+  extensions:
+    - RSPiwikSiteTreeExtension
